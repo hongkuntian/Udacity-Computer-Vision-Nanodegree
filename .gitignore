@@ -129,8 +129,8 @@ dmypy.json
 .pyre/
 
 
-# Created by https://www.gitignore.io/api/macos,jupyternotebooks
-# Edit at https://www.gitignore.io/?templates=macos,jupyternotebooks
+# Created by https://www.gitignore.io/api/macos,jupyternotebooks,visualstudiocode
+# Edit at https://www.gitignore.io/?templates=macos,jupyternotebooks,visualstudiocode
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
@@ -174,4 +174,15 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# End of https://www.gitignore.io/api/macos,jupyternotebooks
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+
+# End of https://www.gitignore.io/api/macos,jupyternotebooks,visualstudiocode
