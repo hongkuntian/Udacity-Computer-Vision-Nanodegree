@@ -2,7 +2,7 @@
 Projects developed for Udacity's Computer Vision Nanodegree Program
 
 ## Projects
-### TODO: Facial Keypoint Detection
+### Facial Keypoint Detection
 
 **Description:** Use image processing techniques and deep learning techniques to detect faces in an image and find facial keypoints, such as the position of the eyes, nose, and mouth on a face.
 
