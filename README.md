@@ -4,6 +4,8 @@ Projects developed for Udacity's Computer Vision Nanodegree Program
 ## Projects
 ### Facial Keypoint Detection
 
+![Facial Keypoint Detection](P1_Facial_Keypoints/images/p1_results.png)
+
 **Description:** Use image processing techniques and deep learning techniques to detect faces in an image and find facial keypoints, such as the position of the eyes, nose, and mouth on a face.
 
 In this project, I performed image processing and feature extraction techniques that allowed me to programmatically represent different facial features. I used my knowledge of deep learning techniques to program a convolutional neural network (CNN) to recognize facial keypoints. Facial keypoints include points around the eyes, nose, and mouth on any face and are used in many applications, from facial tracking to emotion recognition.
