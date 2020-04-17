@@ -1,6 +1,24 @@
-# CVND---Image-Captioning-Project
+# Image Captioning Project
 
-# Instructions  
+## Dataset
+
+This project uses the Common Objects in Context ([COCO](http://cocodataset.org/)) dataset which a large-scale object detection, segmentation, and captioning dataset.
+
+![COCO Examples](images/coco-examples.jpg)
+
+## Model architecture
+
+
+
+The architecture used to achieve image captioning is a sequence to sequence model, where the encoder is ResNet-50, a pretrained CNN, and the decoder is one LSTM cell layer.
+
+![Model Architecture](images/encoder-decoder.png)
+
+## Results
+
+![P2 Results](images/p2_results.png)
+
+# Project Instructions  
 1. Clone this repo: https://github.com/cocodataset/cocoapi  
 ```
 git clone https://github.com/cocodataset/cocoapi.git  
