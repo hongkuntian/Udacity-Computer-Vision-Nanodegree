@@ -11,8 +11,10 @@ In this project, I performed image processing and feature extraction techniques 
 
 The Udacity repository for this project: [P1_Facial_Keypoints](https://github.com/udacity/P1_Facial_Keypoints)
 
-## TODO: Project 2: Automatic Image Captioning
+## Project 2: Automatic Image Captioning
 **Description:** Combine CNN and RNN knowledge to build a deep learning model that produces captions given an input image.
+
+![Automatic Image Captioning](P2_Automatic_Image_Captioning/images/p2_results.png)
 
 In this project, I created a complex deep learning model with two components: a CNN that transforms an input image into a set of features, and an RNN that turns those features into rich, descriptive language. I implemented both of these cutting-edge deep learning architectures.
 
