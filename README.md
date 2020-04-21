@@ -20,8 +20,10 @@ In this project, I created a complex deep learning model with two components: a 
 
 The Udacity repository for this project: [CVND---Image-Captioning-Project](https://github.com/udacity/CVND---Image-Captioning-Project)
 
-## TODO: Project 3: Landmark Detection and Tracking (SLAM)
+## Project 3: Landmark Detection and Tracking (SLAM)
 **Description:** Use feature detection and keypoint descriptors to build a map of the environment with Simultaneous Localization And Mapping (SLAM).
+
+![SLAM](P3_Implement_SLAM/images/robot_world.png)
 
 In this project, I implemented a robust method for tracking an object over time, using elements of probability, motion models, and linear algebra. This project tested my knowledge of localization techniques that are widely used in autonomous vehicle navigation.
 
